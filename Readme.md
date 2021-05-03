@@ -1,7 +1,6 @@
 <!-- TOC -->
 
 - [Gumtree](#gumtree)
-    - [Features](#features)
     - [Installation on Linux](#installation-on-linux)
     - [Installation on Windows](#installation-on-windows)
 
