@@ -15,3 +15,5 @@
 4. pip install -r requirements.txt
 5. python main.py
 6. ввести ссылку с gumtree.com 
+
+![GUMTREE-01-scaled](https://user-images.githubusercontent.com/83600812/116905161-49751f00-ac47-11eb-84fb-bc30d3759035.jpg)
