@@ -1,8 +1,6 @@
 <!-- TOC -->
 
-- [Gumtree](#gumtree)
-    - [Installation on Linux](#installation-on-linux)
-    - [Installation on Windows](#installation-on-windows)
+- [Installation](#installation-on-linux)
 
 <!-- /TOC -->
 ![GUMTREE-01-scaled](https://user-images.githubusercontent.com/83600812/116905161-49751f00-ac47-11eb-84fb-bc30d3759035.jpg)
