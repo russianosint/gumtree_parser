@@ -1,5 +1,12 @@
-![GUMTREE-01-scaled](https://user-images.githubusercontent.com/83600812/116905161-49751f00-ac47-11eb-84fb-bc30d3759035.jpg)
+<!-- TOC -->
 
+- [Gumtree](#gumtree)
+    - [Features](#features)
+    - [Installation](#installation)
+
+<!-- /TOC -->
+![GUMTREE-01-scaled](https://user-images.githubusercontent.com/83600812/116905161-49751f00-ac47-11eb-84fb-bc30d3759035.jpg)
+## Installation
 # Installation on Linux
 
 1. pip3 install virtualenv
