@@ -39,7 +39,7 @@ class Client:
     self.result = []
 
   def banner(self):
-    banner = pyfiglet.figlet_format("Tg: @guavaplease")
+    banner = pyfiglet.figlet_format("Tg: @kohags")
     print(Fore.YELLOW + banner)
 
   def load_page(self):
